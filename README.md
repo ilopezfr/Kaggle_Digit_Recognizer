@@ -8,4 +8,4 @@ The data for this competition were taken from the MNIST dataset. The MNIST ("Mod
 
 -------------
 
-For this competion I used Python and h2o for machine learning. 
+For this competion I used Python as language and **h2o.ai** for machine learning. 
